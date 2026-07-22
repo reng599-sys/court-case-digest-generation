@@ -1,6 +1,6 @@
-# 裁判文书转案例编写稿
+# 裁判文书转案例
 
-将中国法院裁判文书改写为人民法院案例库风格的案例编写稿。适用于 AI Agent（如 WorkBuddy、OpenClaw 等）的 Skill。
+将中国的法院裁判文书改写为人民法院案例库风格的案例分析。适用于 AI Agent（如 WorkBuddy、OpenClaw 等）的 Skill。
 
 ## 功能
 
